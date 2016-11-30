@@ -1,7 +1,7 @@
 List of Integration Routes, Property Keys and Default Paths
 ===========================================================
 
-## [OAUTH2](oauth2.md)
+## [Oauth2](oauth2.md)
 
 ```
 stormpath.web.oauth2.uri = /oauth/token
