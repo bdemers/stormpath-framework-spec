@@ -1,4 +1,4 @@
-List of Integration Routes, Property Keys and Default Paths
+List of Integration Routes, Property Keys, and Default Paths
 ===========================================================
 
 ## [Oauth2](oauth2.md)
